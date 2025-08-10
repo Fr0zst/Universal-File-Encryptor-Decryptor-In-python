@@ -19,3 +19,9 @@ in the same powershell prompt as path\to\the\folder>python ED.py
 
 after all that it should look like this
 <img width="616" height="281" alt="image" src="https://github.com/user-attachments/assets/cb267b53-6bc7-46cb-90cd-157637fdd516" />
+
+
+Example video:
+
+https://github.com/user-attachments/assets/62e2a882-8238-454f-a228-e6774ccf3811
+
