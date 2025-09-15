@@ -1,3 +1,5 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
 #!/usr/bin/env python3
 """
 Universal File Encryptor/Decryptor
@@ -406,3 +408,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
