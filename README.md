@@ -1,3 +1,4 @@
+[![Badge](https://img.shields.io/badge/PythonDiddler-blue)](https://github.com/Fr0zst)
 # Universal-File-Encryptor-Decryptor-In-python
 i was quite bored indeed
 so what you have to do to start it is 
